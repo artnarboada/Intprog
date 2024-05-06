@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".screens.Login"
+    android:background="@drawable/background">
+
+
+     <LinearLayout android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:orientation="vertical">
+
+         <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:layout_gravity="center"
+             android:orientation="vertical"
+             >
+             <ImageView
+                 android:layout_width="400dp"
+                 android:layout_height="250dp"
+                 android:background="@drawable/applogo"
+                 android:layout_marginTop="50dp"/>
+             <TextView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Agri-Fund"
+                       android:textSize="50dp"
+                       android:layout_marginLeft="95dp"
+                       android:textStyle="bold"/>
+             <LinearLayout android:layout_width="match_parent"
+                           android:layout_height="300dp"
+                           android:background="@color/white"
+                           android:layout_margin="20dp"
+                           android:orientation="vertical">
+
+
+                 <Button
+                     android:layout_width="300dp"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="30dp"
+                     android:layout_marginTop="50dp"
+                     android:background="@drawable/loginborder"
+                     android:text="Login"
+                     android:textColor="#1E6E12"
+                     android:textStyle="bold"
+                     android:textSize="25dp"
+                     android:id="@+id/login"
+                     />
+                 <Button
+                     android:layout_width="300dp"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="30dp"
+                     android:layout_marginTop="25dp"
+                     android:layout_marginBottom="15dp"
+                     android:background="@drawable/loginborder"
+                     android:text="Register"
+                     android:textColor="#1E6E12"
+                     android:textStyle="bold"
+                     android:textSize="25dp"
+                     android:id="@+id/register"
+                     />
+
+             </LinearLayout>>
+
+
+         </LinearLayout>
+
+
+
+
+
+
+     </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".screens.Dashboard"
+    android:background="@drawable/background">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+
+                  android:layout_marginTop="10dp">
+         <LinearLayout android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:background="#D5FBED"
+                       android:orientation="horizontal">
+
+           <Button
+               android:layout_width="70dp"
+               android:layout_height="70dp"
+               android:id="@+id/homeButton"
+               android:background="@drawable/ic_baseline_home_24"
+               />
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Agri-Fund"
+               android:textSize="45dp"
+               android:layout_marginLeft="40dp"
+               android:layout_marginTop="10dp"
+               />
+
+         </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="150dp"
+                android:background="@drawable/applogo"
+                android:layout_marginLeft="95dp"/>
+
+
+
+
+
+            <LinearLayout android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical">
+                    <LinearLayout
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:orientation="horizontal"
+                          >
+
+                              <Button android:layout_width="150dp"
+                                      android:layout_height="130dp"
+                                      android:background="@drawable/businesslogo"
+                                      android:layout_marginLeft="50dp"
+                                      android:layout_marginTop="20dp"
+                                      android:id="@+id/businessButton"
+                                      android:text="      Business"
+                                      android:textSize="20dp"
+                                       android:gravity="bottom"/>
+
+                               <Button android:layout_width="150dp"
+                                      android:layout_height="130dp"
+                                      android:background="@drawable/campaignlogo"
+                                      android:layout_marginLeft="20dp"
+                                      android:layout_marginTop="20dp"
+                                      android:text="      Campaign"
+                                      android:id="@+id/campaignButton"
+                                      android:textSize="20dp"
+                                      android:gravity="bottom"/>
+
+                    </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <Button android:layout_width="150dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/progresslogo"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginTop="20dp"
+                        android:text="      Progress"
+                        android:id="@+id/progressButton"
+                        android:textSize="20dp"
+                        android:gravity="bottom"/>
+
+                    <Button android:layout_width="150dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/investlogo"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="20dp"
+                        android:text="         Invest"
+                        android:id="@+id/investButton"
+                        android:textSize="20dp"
+                        android:gravity="bottom"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <Button android:layout_width="150dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/donatelogo"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginTop="20dp"
+                        android:text="        Donate"
+                        android:textSize="20dp"
+                        android:id="@+id/donateButton"
+                        android:gravity="bottom"/>
+
+                    <Button android:layout_width="150dp"
+                        android:layout_height="130dp"
+                        android:background="@drawable/customersupportlogo"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="20dp"
+                        android:text="        Support"
+                        android:id="@+id/supportButton"
+                        android:textSize="20dp"
+                        android:gravity="bottom"/>
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/drawable/buttonborder.xml" value="0.1285" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/drawable/loginborder.xml" value="0.108" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/drawable/searchborder.xml" value="0.1285" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/drawable/textboxborder.xml" value="0.1285" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_acitivty_counter.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_business.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_business2.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_campaign.xml" value="0.1578125" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_counter.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_counter2.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_cs.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_dashboard.xml" value="0.18" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_donation.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_invest.xml" value="0.1609375" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_login2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_login3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_login4.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_login_dashboard.xml" value="0.13" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_main2.xml" value="0.13381995133819952" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_main3.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_main4.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_main5.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_progress.xml" value="0.1609375" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_register.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Dell/AgriFund2/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AgriFund2/codelab/src/main/res/layout/activity_main.xml" value="0.16304347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
